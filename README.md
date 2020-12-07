@@ -2,7 +2,7 @@
 
 Este proyecto ha consistido en participar en una competición en [Kaggle](https://www.kaggle.com/c/diamonds-datamad1020-rev/overview) para la cual hemos tratado de predecir el precio de los diamantes a partir de los datasets proporcionados en la misma.
 
-![Alt](https://github.com/AnaMA96/Kaggle-Competition/blob/main/output/images/The%20Diamond%20Kaggle%20Competition.pdf)
+![Alt](https://github.com/AnaMA96/Kaggle-Competition/blob/main/output/images/The%20Diamond%20Kaggle%20Competition.jpg)
 
 El modelo que me ha permitido ocupar la siguiente posición en la competición ha sido generado con [Automatic Learning de H2O](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html):
 
